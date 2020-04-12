@@ -1,0 +1,13 @@
+[
+	{
+		"name": "Ashikunj",
+		"uniqueTo": "Ashipur",
+		"food": 1,
+		"gold": 1,
+		"turnsToBuild": 10,
+		"techRequired": "Masonry",
+		"improvingTech": "Construction",
+		"improvingTechStats": {"production":1},
+		"terrainsCanBeBuiltOn": ["Forest","Jungle"]
+	}
+]
