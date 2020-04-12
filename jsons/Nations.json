@@ -1,0 +1,30 @@
+[
+	{
+		"name": "Ashipur",
+		"leaderName": "King Rajar",
+		"adjective": ["Ashipurians"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "May the blessings of heaven be upon you, O great Nebuchadnezzar, father of mighty and ancient Babylon! Young was the world when Sargon built Babylon some five thousand years ago, long did it grow and prosper, gaining its first empire the eighteenth century BC, under godlike Hammurabi, the giver of law. Although conquered by the Kassites and then by the Assyrians, Babylon endured, emerging phoenix-like from its ashes of destruction and regaining its independence despite its many enemies. Truly was Babylon the center of arts and learning in the ancient world. O Nebuchadnezzar, your empire endured but a short time after your death, falling to the mighty Persians, and then to the Greeks, until the great city was destroyed by 141 BC.",
+		"startIntroPart2": "But is Babylon indeed gone forever, great Nebuchadnezzar? Your people look to you to bring the empire back to life once more. Will you accept the challenge? Will you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "This is destined, with the way things are.",
+		"attacked": "You severely underestimate my armies!",
+		"defeated": "My palace, my kingdom, all in shambles. Why!?",
+		"introduction": "Greetings visitor, care to stay in the lands of Ashipur?",
+		
+		"neutralHello": "Welcome.",
+		"hateHello": "The animals are howling your name, you are not welcome here.",
+		
+		"tradeRequest": "Let us co-mingle our riches and wealth!",
+				
+		"outerColor": [94,44,130],
+		"innerColor": [234,195,18],
+		"unique": "GREAT_WARPATH",
+		"cities": ["Jamzabad","Chaktan","Madhepathar","Inapur","Chansang","Babaran","Timerbar","Sharparkar","Gadrabad","Chaydoi",
+			"Lappalawa","Rekirawa","Kapur","Banemak","Lalmohani","Jhenaidah","Thindashi","Hulhumulah","Baganka","Hazyung",
+			"Elyakharak","Jammak","Sandhi","Chirgank","Sundarwada","Hegawatta","Yakamam","Ghohari","Tapleyuga","Lalmobandha",
+			"Lakshmikhali","Nolhimandhoo","Villinmale","Tshalukha","Saksar","Qandaryd","Khudu","Revellaj","Wanphu","Bhaktapa"]
+	}
+]
