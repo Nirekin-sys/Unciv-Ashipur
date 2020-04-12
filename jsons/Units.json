@@ -1,0 +1,17 @@
+[
+	{
+		"name": "Jungle Elephant",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"uniqueTo": "Ashipur",
+		"movement": 3,
+		"strength": 23,
+		"cost": 150,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","Bonus as Attacker [25]%"],
+		"hurryCostModifier": 20,
+		"attackSound": "nonmetalhit"
+	}
+]
